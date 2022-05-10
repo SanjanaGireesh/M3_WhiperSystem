@@ -36,14 +36,14 @@ For cleaning the wind shield from unwanted dust and mist.
 When we on the wiper switch it gets activated.
 # Detail requirements
 # High Level Requirements
- 1) HLR  -  DESCRIPTION 
- 2) HLR_1 - Systic Timers(Internal Timers)
- 3) HLR_2 - Light Emitting Diode
- 4) HLR_3 - On/Off Switch
+ 
+ 1) HLR_1 - Systic Timers(Internal Timers)
+ 2) HLR_2 - Light Emitting Diode(Blue, Green, Orange)
+ 3) HLR_3 - On/Off Switch(Red)
 # Low Level Requirements
- 1) LLR  -   DESCRIPTION 
- 2) LLR_1 - Arm Processor
- 3) LLR_2 -  STM32 Bit
- 4) LLR_3  - Qemu Microcontroller
+
+ 1) LLR_1 - Arm Processor
+ 2) LLR_2 -  STM32 Bit
+ 3) LLR_3  - Qemu Microcontroller
 
     
