@@ -19,11 +19,11 @@ A wiper speed control system for an automotive wiper controls the operational sp
 # Opportunities
 Windshield wipers keep the windshield of a vehicle clear from rain water, snow, dust and road spray. The first windshield wipers were operated manually by moving a lever inside the car. Later wiper designs were powered by the engine's manifold vacuum.
 # Threats
-# wipers are frozen or snowed on to the windshield.
+# Wipers are frozen or snowed on to the windshield.
 Your windshield wipers don't weight very much so its easy for heavy wet snow to weight them down or cause them to freeze onto the windshield.
-# wipers aren't fastened in properly.
+# Wipers aren't fastened in properly.
 If you don't put your windshield wiper blades on properly, they won't be able to function.
-# wipers have torn blades. 
+# Wipers have torn blades. 
 Your windshield wiper blades are made of rubber that's meant to handle water and sometimes ice. Faced with anything solid, these rubber blades can rip easily causing your wipers not to work. Causes of Broken Windshield Wipers
  # 4W's and 1'H
 # WHERE
