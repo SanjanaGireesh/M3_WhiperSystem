@@ -34,6 +34,18 @@ Commonly used during rainy season and when there is unwanted dust in windshield.
 For cleaning the wind shield from unwanted dust and mist.
 # HOW
 When we on the wiper switch it gets activated.
+# Advantages
+1) Optimal wiping performance
+2) Enhanced driver comfort 
+3) Reduced noise from wiper operation
+4) Improved visibility
+5) Vehicle design freedom 
+6) space occupancy in plenum area significantly reduced
+7) Wiper arm/blade protection - from potential sources of damage e.g. snow block.
+8) Easy blade replacement
+9) 'service' position facilitates blade replacement.
+# Disadvantages
+The automated rain wiper system is used to detect rainfall and activate automobile rain wiper automatically without driver interaction. The system is developed to mitigate driving distractions and allow drivers to focus on their primary task of driving. The distraction eliminated with the development of this product is the manual adjustment of windshield wipers when driving in precipitation. The few seconds that a driver takes their attention off the road to adjust a knob while driving in poor weather conditions could potentially lead to car accidents.The system uses a combination of impedance and rain sensor to detect rain and its intensity. The system contains a controller that takes in the input signals from the sensors and controls the operation of the windshield wipers based on those input signals The aim of this project is to help reduce accidents that happen as a result of the driver intending to clean the windscreen when rain is falling thereby taking the attention of the driver off the road when he or she is switching on and off the wiper. In rainy days we suffer from the act of sprinkling of water on the front glass of our wheeler. While driving, when drivers cannot see visibly on-road vehicles they try operating the wiper on glass manually, at times switching on and off intermittently and this distraction might cause vehicle accident. If we apply any kind of sensor on glass which senses the act of sprinkling water, by automation, the wiper will be operating automatically. When the water hit the sensor, it will send a signal to the system thus triggering the wiper motor. Once the sensor does not detect any water, the wiper will stop. This will reduce the human interface that has been stated earlier. An addition to this invention is that the wiper automatically push up from the windscreen when the engine is shut off.
 # Detail requirements
 # High Level Requirements
  
