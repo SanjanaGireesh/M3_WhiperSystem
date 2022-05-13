@@ -1,3 +1,4 @@
+# WIPER CONTROL SYSTEM
 # Introduction
 These days, even non-luxury compact and family cars are available with rain-sensing wipers. These systems utilize an LED sensor, fitted between the windshield and rearview mirror, to detect the amount of rain or snow falling on the windshield.There are a number of infrared light-emitting diodes (LEDs) and a central photodiode which make up the “rain sense” portion of the system.The invisible light emitted by the LEDs is reflected by the windshield onto the photo sensor. Therefore the more moisture there is on the windshield, the less light the sensor receives. This information is subsequently relayed to a computer control unit, which then adjusts the intermittent wiper delay intervals of the accordingly.The wetter it gets, the faster the rain sensing wipers work to help give you a clear view of what's in front of you. When the system senses drier conditions, such as when the vehicle is stopped at a red light and the rain is falling less intensely, the wipers will gradually slow down before switching themselves off when no longer needed.
 # Objectives
@@ -11,8 +12,8 @@ The automated rain wiper system is used to detect rainfall and activate automobi
 ## Identifying features
 1) When the button is pressed once the car will start (_Ignition key postion at ACC_)
 2) When the button is pressed again the wiper will start(_Wiper On_)
-3) When the button is pressed again the wiper will off(_Wiper Off_) 
-4) When the button is pressed thrice the car will stop(_Ignition key position at Lock_)
+3) When the button is pressed again the wiper will off(_Wiper Off_)
+4) When the button is pressed thrice the car will stop(_Ignition key position at Lock_)
 
 ## State of art
   The main focus point is seeing the wiper control of the car and also seeing the seep of the wiper system in the car. Now this two features are explained in these project.
@@ -33,11 +34,11 @@ The automated rain wiper system is used to detect rainfall and activate automobi
 # Opportunities
 Windshield wipers keep the windshield of a vehicle clear from rain water, snow, dust and road spray. The first windshield wipers were operated manually by moving a lever inside the car. Later wiper designs were powered by the engine's manifold vacuum.
 # Threats
-# Wipers are frozen or snowed on to the windshield
+## Wipers are frozen or snowed on to the windshield
 Your windshield wipers don't weight very much so its easy for heavy wet snow to weight them down or cause them to freeze onto the windshield.
-# Wipers aren't fastened in properly
+## Wipers aren't fastened in properly
 If you don't put your windshield wiper blades on properly, they won't be able to function.
-# Wipers have torn blades
+## Wipers have torn blades
 Your windshield wiper blades are made of rubber that's meant to handle water and sometimes ice. Faced with anything solid, these rubber blades can rip easily causing your wipers not to work. Causes of Broken Windshield Wipers.
  # 5W's and 1'H
  ## WHAT
