@@ -1,4 +1,4 @@
-# M3_Wiper Control System
+# M3-Wiper Control System
 # BADGES
 # Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f2a9285bd924bed882bada9179474d0)](https://www.codacy.com/gh/SanjanaGireesh/M3_WiperControlSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SanjanaGireesh/M3_WiperControlSystem&amp;utm_campaign=Badge_Grade)
