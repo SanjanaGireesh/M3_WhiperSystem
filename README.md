@@ -30,6 +30,10 @@
 5) 4_TestCases ---> Off Mode, On Mode, Hex File.
 6) 5_Report ---> Generated a detailed Report.
 7) 6_Output ---> All the images.
+ 
+ # STM32F407 Discovery Board
+ ![STM32F407 Discovery Board](https://user-images.githubusercontent.com/101441389/168227631-5f830f6f-ae52-4823-8841-c349651dfba4.PNG)
+
 # Learning Resources
 https://futureskillsnasscom.edcast.com/journey/getting-started-with-arm-based-microcontrollers
 ![BADGES](https://user-images.githubusercontent.com/101441389/168225832-40943e46-4f21-4073-9f60-ccdd557928e9.PNG)
