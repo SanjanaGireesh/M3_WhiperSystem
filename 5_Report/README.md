@@ -36,6 +36,22 @@ Commonly used during rainy season and when there is unwanted dust in windshield.
 For cleaning the wind shield from unwanted dust and mist.
 # HOW
 When we on the wiper switch it gets activated.
+
+# ENGINE ON STATE
+![Red Led ON](https://user-images.githubusercontent.com/101441389/168270659-510526cf-8bf6-4916-afe9-c947d4dfa916.png)
+
+# WIPER SPEED IS LOW
+![Orange Led ON](https://user-images.githubusercontent.com/101441389/168272110-ba6bdba7-3601-4577-b324-2eb865077862.png)
+
+# WIPER SPEED IS MODERATE
+![Green Led ON](https://user-images.githubusercontent.com/101441389/168272380-5c7a8fdb-6ac8-4f0e-b39d-12fd36c119da.png)
+
+# WIPER SPEED IS HIGH
+![BLUE LED ON](https://user-images.githubusercontent.com/101441389/168272740-47d01034-eca2-412c-bf74-62f5edad61d9.PNG)
+
+# ENGINE OFF STATE
+![Wiper OFF State](https://user-images.githubusercontent.com/101441389/168271807-83ca6e24-7ec2-4a6d-917b-81b59797b88d.PNG)
+
 # Advantages
 1) Optimal wiping performance
 2) Enhanced driver comfort 
