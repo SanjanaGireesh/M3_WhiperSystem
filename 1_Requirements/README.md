@@ -18,7 +18,7 @@ The automated rain wiper system is used to detect rainfall and activate automobi
 ## State of art
  1) The main focus point is seeing the wiper control of the car
  2) And also seeing the seep of the wiper system in the car
- 3) Now this two features are explained in these project
+ 3) Now this two features are explained in these project
 # Swot Analysis
 # Strength
 1) Whenever the water hit a dedicated sensor that located on windscreen, it will send a signal to move on the wiper motor. Once water is not detected by sensor, the wiper will automatically stop. This will help the driver to give more concentration and reduce the car accident probability.
