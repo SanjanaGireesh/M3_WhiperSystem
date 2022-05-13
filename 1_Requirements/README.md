@@ -50,7 +50,7 @@ When the weather condition is bad (like in rain and snow) the wiper is activate 
 For cleaning the wind shield from unwanted dust and mist.
 ## WHO
 Who is driving or controlling the car
-# HOW
+## HOW
 When we on the wiper switch it gets activated.
 # Advantages
 1) Optimal wiping performance
