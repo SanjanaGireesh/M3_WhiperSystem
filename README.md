@@ -1,9 +1,10 @@
 # M3_Wiper Control System
 # BADGES
 # Codacy - Static Code Analysis
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f2a9285bd924bed882bada9179474d0)](https://www.codacy.com/gh/SanjanaGireesh/M3_WiperControlSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SanjanaGireesh/M3_WiperControlSystem&amp;utm_campaign=Badge_Grade)
 
 # Code Grade
-https://api.codiga.io/project/33423/status/svg
+# Code Grade![Code Grade](https://api.codiga.io/project/33423/status/svg)
 
 # Code Quality Score
 # Code Quality ![Code Quality Score](https://api.codiga.io/project/33423/score/svg)
