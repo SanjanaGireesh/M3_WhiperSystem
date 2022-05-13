@@ -6,7 +6,7 @@
 https://api.codiga.io/project/33423/status/svg
 
 # Code Quality Score
-# Code Quality ![Code Quality Score] (https://api.codiga.io/project/33423/score/svg)
+# Code Quality ![Code Quality Score](https://api.codiga.io/project/33423/score/svg)
 
 # Makefile
 [![Makefile](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Makefile.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Makefile.yml)
