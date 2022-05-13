@@ -7,7 +7,7 @@
 # Code Quality Score
 
 # Cppcheck Action
-
+[![Cppcheck Analysis](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml)
 # Build-Windows
 
 # Build-Linux
