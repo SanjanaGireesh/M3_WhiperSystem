@@ -5,6 +5,8 @@
 # Code Grade
 
 # Code Quality Score
+# Makefile
+[![Makefile](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Makefile.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Makefile.yml)
 
 # Cppcheck Action
 [![Cppcheck Analysis](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml)
