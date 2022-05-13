@@ -10,13 +10,17 @@
 
 # Cppcheck Action
 [![Cppcheck Analysis](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml)
+
 # Build-Windows
 
 # Build-Linux
-[![Build-Linux](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build%20on%20Linux.yml)
+[![Build-Linux](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build%20on%20Linux.yml
+
 # Analysis
 [![Analysis](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Analysis.yml)
+
 # Git Inspector
+[![Git Inspector](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/gitinspector.yml)
 
 # Valgrind
 
