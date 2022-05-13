@@ -13,7 +13,7 @@
 # Build-Linux
 
 # Analysis
-
+[![Analysis](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Analysis.yml)
 # Git Inspector
 
 # Valgrind
