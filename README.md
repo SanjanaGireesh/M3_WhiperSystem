@@ -32,6 +32,8 @@
 7) 6_Output ---> All the images.
 # Learning Resources
 https://futureskillsnasscom.edcast.com/journey/getting-started-with-arm-based-microcontrollers
+![BADGES](https://user-images.githubusercontent.com/101441389/168225832-40943e46-4f21-4073-9f60-ccdd557928e9.PNG)
+
 # References
 1) http://www.linuxforu.com/2011/05/quick-quide-to-qemu-setup/ 
 2) http://blog.troyastle.com/2010/07/building-arm-powered-debian-vm-with.html 
