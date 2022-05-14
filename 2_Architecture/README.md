@@ -4,7 +4,10 @@
 # FLOW CHART
 ![FLOW CHART](https://user-images.githubusercontent.com/101441389/168409750-640b35b0-10ad-4f81-8773-74af4d0dac88.png)
 
-# DATA FLOW DIAGRAM
+# DATA FLOW DIAGRAMS
+## FIGURE 1
+![DATA FLOW DIAGRAM (WCS)](https://user-images.githubusercontent.com/101441389/168421862-d755a53a-f71a-4dd4-9d34-fe17c6c45785.PNG)
+## FIGURE 2
 ![DATA FLOW DIAGRAM](https://user-images.githubusercontent.com/101441389/168409806-ab9890ef-3acd-4468-bffd-76a2ae640d14.PNG)
 
 # SCHEMATIC DIAGRAM
