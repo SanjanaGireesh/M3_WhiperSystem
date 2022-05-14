@@ -30,7 +30,7 @@
 # Valgrind
 [![Valgrind](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/valgrind.yml)
 # Unit Testing
-
+[![Unit Testing](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/unit-test.yml)
 # CI passing
 [![CI](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/CI.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/CI.yml)
 
