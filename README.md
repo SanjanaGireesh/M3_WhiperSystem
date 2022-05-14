@@ -16,6 +16,7 @@
 [![Cppcheck Analysis](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Cppcheck_analysis.yml)
 
 # Build-Windows
+[![Build CI - Windows](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build_Windows.yml)
 
 # Build-Linux
 [![Build-Linux](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/Build%20on%20Linux.yml)
