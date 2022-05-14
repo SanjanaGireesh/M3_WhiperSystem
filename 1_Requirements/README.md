@@ -19,13 +19,23 @@ STM32F4O7VG MICROCONTROLLER BOARD
 The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrollers' capabilities to make it simple for users to create audio-based applications. It comes with an ST-LINK embedded debug tool, an ST-MEMS digital accelerometer, a digital microphone, an audio DAC with integrated class D speaker driver, LEDs, pushbuttons, and a USB OTG micro-AB connector.Ethernet connectivity, an LCD display, and other features have been added to the STM32F4 DISCOVERY kit. The STM32F405xx and STM32F407xx families are built around the high-performance Arm® Cortex®-M4 32-bit RISC core, which runs at up to 168 MHz.
 
 # FEATURES OF STM32F407VG MICROCONTROLLER
-In a LQFP100 package, the STM32F407VGT6 microcontroller has a 32-bit ARM Cortex-M4 with FPU core, 1-Mbyte Flash memory, and 192-Kbyte RAM.
-On-board ST-LINK/V2 or ST-LINK/V2-A on STM32F4 DISCOVERY (old reference) or STM32F407G-DISC1 (new order code)
-USB ST-LINK with three separate interfaces and re-enumeration capability.
-Virtual Com port Debug port (with new order code only)
-Large-scale storage (with new order code only)
-Board power is supplied through USB or an external 5 V supply source.
-3 V and 5 V external application power supply
+1) Up to 1 Mbyte of Flash memory.
+2) Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
+3) 512 bytes of OTP memory.
+4) Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
+5) In a LQFP100 package, the STM32F407VGT6 microcontroller has a 32-bit ARM Cortex-M4 with FPU core, 1-Mbyte Flash memory, and 192-Kbyte RAM.
+6) On-board ST-LINK/V2 or ST-LINK/V2-A on STM32F4 DISCOVERY (old reference) or STM32F407G-DISC1 (new order code)
+7) USB ST-LINK with three separate interfaces and re-enumeration capability.
+8) Virtual Com port Debug port (with new order code only)
+9) Large-scale storage (with new order code only)
+10) Board power is supplied through USB or an external 5 V supply source.
+11) 3 V and 5 V external application power supply
+# Xpack Packages 
+Windows Build Tools: The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
+# OpenOCD 
+Open On-Chip Debugger (OpenOCD) is a free, open-source project that aims to provide debugging, in-system programming, and boundary scan using a debug adapter. The adapter is a hardware module that provides the right signals for the target to understand.
+# QEMU 
+The xPack QEMU Arm is a standalone cross-platform binary distribution of QEMU, with several extensions for Arm Cortex-M devices. 
 # USES
 This Microcontroller is utilised in printing and scanning machines ,heat ventilation, air conditioning, and security systems.
 This module can be found in a variety of household products.
