@@ -32,6 +32,7 @@
 # Unit Testing
 
 # CI passing
+[![CI](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/CI.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/CI.yml)
 
 # Folder Structure
 1) 0_Abstract ---> Project Title and objectives of the Project.
