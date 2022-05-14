@@ -89,16 +89,23 @@ When we on the wiper switch it gets activated.
 # Disadvantages
 While rain sensors are generally a good idea, they're not usually necessary in extremely arid environments that receive relatively small amounts of precipitation. In this case, a sensor would have little or no value.
 # Detail requirements
-# High Level Requirements
- 
- 1) HLR_1 - Systic Timers(Internal Timers)
- 2) HLR_2 - Light Emitting Diode(Blue, Green, Orange)
- 3) HLR_3 - On/Off Switch(Red)
-# Low Level Requirements
+## LOW LEVEL REQUIREMENTS:
 
- 1) LLR_1 - Arm Processor
- 2) LLR_2 -  STM32 Bit
- 3) LLR_3  - Qemu Microcontroller
+|SNO|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLR1|STM32 MICROCONTROLLER BOARD HAS BEEN USED|PASSING|
+|LLR2|LEDS ARE USED AND GLOWING|IMPLEMENTED|
+|LLR3|PUSH BUTTON USED TO SET THE SPEED BY THE USER|PASSING|
+|LLR4|POWER SUPPLY IS GIVEN TO THE BOARD|PASSING|
+
+## HIGH LEVEL REQUIREMENTS:
+
+|SNO|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLR1|STM32 MICROCONTROLLER BOARD|PASSING|
+|HLR2|4 COLORS OF LEDS INDIGATES THE SPEED|PASSING|
+|HLR3|PUSH BUTTON TO OPERATE|PASSING|
+
 # Exploring STM32F407 Discovery Board
 The main purpose of this project is to get an insight into the STM32F407 Discovery Board, which is an ARM Cortex M4 based Microcontroller. As I started working on STM32F07 Discovery Board, initially it was difficult and confusing to understand and program this microcontroller because understanding internal structures and working of the microcontroller using datasheet of STM32F407VGT MCU is difficult especially if one is a beginner.
 # Figure 1 : STM32F407 Discovery Board
