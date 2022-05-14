@@ -35,13 +35,15 @@
 [![CI](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/CI.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/CI.yml)
 
 # Folder Structure
-1) 0_Abstract ---> Project Title and objectives of the Project.
-2) 1_Requirements ---> Documents detailing high and low level requirements.
-3) 2_Design ---> Block Diagram, Data Flow Diagram.
-4) 3_Implementation ---> Simulation, Documentation, Makefile & all the C code is written here.
-5) 4_TestCases ---> Off Mode, On Mode, Hex File.
-6) 5_Report ---> Generated a detailed Report.
-7) 6_Output ---> All the images.
+| Folder| Description |
+|------|:------------|
+| 0_Abstract | Project Title and objectives of the Project |
+| 1_Requirements | Detailing high and low level requirements and research |
+| 2_Architecture | Documents specifying design details like Block Diagram, Data Flow Diagram |
+| 3_Implementation | All the codes and documentation |
+| 4_TestCases | Test plans and procedures |
+| 5_Report |  Generated a detailed Report |
+| 6_Output | All the images |
  
  # STM32F407 Discovery Board
  ![STM32F407 Discovery Board](https://user-images.githubusercontent.com/101441389/168227631-5f830f6f-ae52-4823-8841-c349651dfba4.PNG)
