@@ -12,3 +12,7 @@
 
 # ENGINE OFF STATE
 ![Wiper OFF State](https://user-images.githubusercontent.com/101441389/168271807-83ca6e24-7ec2-4a6d-917b-81b59797b88d.PNG)
+
+# WIPER SYSTEM
+![WIPER SYSTEM](https://user-images.githubusercontent.com/101441389/168422351-8d26f160-9a8e-4ba5-b03f-25a1bb26b68d.PNG)
+
