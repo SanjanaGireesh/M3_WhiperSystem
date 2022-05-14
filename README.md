@@ -28,7 +28,7 @@
 [![Git Inspector](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/gitinspector.yml)
 
 # Valgrind
-
+[![Valgrind](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SanjanaGireesh/M3_WiperControlSystem/actions/workflows/valgrind.yml)
 # Unit Testing
 
 # CI passing
