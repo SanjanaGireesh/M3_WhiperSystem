@@ -38,12 +38,12 @@
 | Folder| Description |
 |------|:------------|
 | 0_Abstract | Project Title and objectives of the Project |
-| 1_Requirements | Detailing high and low level requirements and research |
-| 2_Architecture | Documents specifying design details like Block Diagram, Data Flow Diagram |
-| 3_Implementation | All the codes and documentation |
-| 4_TestCases | Test plans and procedures |
-| 5_Report |  Generated a detailed Report |
-| 6_Output | All the images |
+| 1_Requirements | Detailing high and low level requirements,SWOT and 5Ws and 1H and research |
+| 2_Architecture |  Designs like Block Diagrams, State Transition Diagrams, Data Flow Diagram,  Flow Charts, Schematic Diagram  |
+| 3_Implementation | All the codes properly commented and formatted as needed with required files and documentation |
+| 4_TestCases | Test plans and procedure carried out for the implemented Requirements |
+| 5_Report |  Generated a overall detailed Report |
+| 6_Output | Output images, videos and .elf files |
  
  # STM32F407 Discovery Board
  ![STM32F407 Discovery Board](https://user-images.githubusercontent.com/101441389/168227631-5f830f6f-ae52-4823-8841-c349651dfba4.PNG)
